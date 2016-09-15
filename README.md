@@ -1,1 +1,1 @@
-# hello-mikado
+# Mikado method sample application
